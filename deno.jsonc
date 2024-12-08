@@ -2,5 +2,14 @@
   "imports": {},
   "fmt": {
     //
+  },
+  "lint": {
+    "include": ["src/"],
+    "exclude": [],
+    "rules": {
+      "tags": ["recommended"],
+      "include": [],
+      "exclude": []
+    }
   }
 }
